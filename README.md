@@ -12,6 +12,7 @@ The project evaluates and compares the performance of three loss functions:
 3. Focal Loss
 
 This analysis explores the interplay between loss functions and optimization, focusing on metrics like accuracy, precision, recall, F1-score, and AUC-ROC. The project also visualizes training dynamics, such as convergence speed and robustness under different conditions.
+
 ---
 
 ## **Features**
